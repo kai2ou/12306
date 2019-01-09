@@ -3,7 +3,7 @@
 - python版本支持
   - 2.7.10 - 2.7.15
 - 依赖库
-  - 依赖若快 若快注册地址：http://www.ruokuai.com/client/index?6726 推荐用若快，打码兔平台已经关闭
+  - 依赖若快 若快注册地址：http://www.ruokuai.com 推荐用若快，打码兔平台已经关闭
   - 项目依赖包 requirements.txt
   - 安装方法-Windows: pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
   - 安装方法-Linux:
